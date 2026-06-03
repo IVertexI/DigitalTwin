@@ -1,0 +1,65 @@
+{
+    "test behavior": {
+        "checkpoints": [
+            {
+                "steps": 999981,
+                "file_path": "results\\velocity_accounted\\test behavior\\test behavior-999981.onnx",
+                "reward": 205.94062393158674,
+                "creation_time": 1780245692.442066,
+                "auxillary_file_paths": [
+                    "results\\velocity_accounted\\test behavior\\test behavior-999981.pt"
+                ]
+            },
+            {
+                "steps": 1499970,
+                "file_path": "results\\velocity_accounted\\test behavior\\test behavior-1499970.onnx",
+                "reward": 520.1694547759162,
+                "creation_time": 1780246404.6647239,
+                "auxillary_file_paths": [
+                    "results\\velocity_accounted\\test behavior\\test behavior-1499970.pt"
+                ]
+            },
+            {
+                "steps": 1999953,
+                "file_path": "results\\velocity_accounted\\test behavior\\test behavior-1999953.onnx",
+                "reward": 545.9173148473104,
+                "creation_time": 1780247121.1857703,
+                "auxillary_file_paths": [
+                    "results\\velocity_accounted\\test behavior\\test behavior-1999953.pt"
+                ]
+            },
+            {
+                "steps": 2332480,
+                "file_path": "results\\velocity_accounted\\test behavior\\test behavior-2332480.onnx",
+                "reward": 550.375278301728,
+                "creation_time": 1780247606.128888,
+                "auxillary_file_paths": [
+                    "results\\velocity_accounted\\test behavior\\test behavior-2332480.pt"
+                ]
+            },
+            {
+                "steps": 2421568,
+                "file_path": "results\\velocity_accounted\\test behavior\\test behavior-2421568.onnx",
+                "reward": null,
+                "creation_time": 1780249220.8772497,
+                "auxillary_file_paths": [
+                    "results\\velocity_accounted\\test behavior\\test behavior-2421568.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2421568,
+            "file_path": "results\\velocity_accounted\\test behavior.onnx",
+            "reward": null,
+            "creation_time": 1780249220.8772497,
+            "auxillary_file_paths": [
+                "results\\velocity_accounted\\test behavior\\test behavior-2421568.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

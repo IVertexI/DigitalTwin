@@ -1,0 +1,65 @@
+{
+    "g1_behavior": {
+        "checkpoints": [
+            {
+                "steps": 3499998,
+                "file_path": "results\\g1_attempt_1\\g1_behavior\\g1_behavior-3499998.onnx",
+                "reward": -61290.39158904247,
+                "creation_time": 1780369651.676933,
+                "auxillary_file_paths": [
+                    "results\\g1_attempt_1\\g1_behavior\\g1_behavior-3499998.pt"
+                ]
+            },
+            {
+                "steps": 3999997,
+                "file_path": "results\\g1_attempt_1\\g1_behavior\\g1_behavior-3999997.onnx",
+                "reward": -62295.799017234705,
+                "creation_time": 1780372634.1862001,
+                "auxillary_file_paths": [
+                    "results\\g1_attempt_1\\g1_behavior\\g1_behavior-3999997.pt"
+                ]
+            },
+            {
+                "steps": 4499999,
+                "file_path": "results\\g1_attempt_1\\g1_behavior\\g1_behavior-4499999.onnx",
+                "reward": -60382.05464130398,
+                "creation_time": 1780375608.2800627,
+                "auxillary_file_paths": [
+                    "results\\g1_attempt_1\\g1_behavior\\g1_behavior-4499999.pt"
+                ]
+            },
+            {
+                "steps": 4999999,
+                "file_path": "results\\g1_attempt_1\\g1_behavior\\g1_behavior-4999999.onnx",
+                "reward": -51395.558164632756,
+                "creation_time": 1780378650.341289,
+                "auxillary_file_paths": [
+                    "results\\g1_attempt_1\\g1_behavior\\g1_behavior-4999999.pt"
+                ]
+            },
+            {
+                "steps": 5312810,
+                "file_path": "results\\g1_attempt_1\\g1_behavior\\g1_behavior-5312810.onnx",
+                "reward": -63735.20188442697,
+                "creation_time": 1780380567.7473958,
+                "auxillary_file_paths": [
+                    "results\\g1_attempt_1\\g1_behavior\\g1_behavior-5312810.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5312810,
+            "file_path": "results\\g1_attempt_1\\g1_behavior.onnx",
+            "reward": -63735.20188442697,
+            "creation_time": 1780380567.7473958,
+            "auxillary_file_paths": [
+                "results\\g1_attempt_1\\g1_behavior\\g1_behavior-5312810.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,14 @@
+mlagents-learn "test1.yaml" --run-id random_velocities --resume --no-graphics --time-scale 10
+mlagents-learn "test1.yaml" --run-id bruh6 --force --no-graphics --time-scale 10  --initialize-from they_got_dumber5
+
+
+mlagents-learn "test2.yaml" --run-id freshstart7 --resume --no-graphics --time-scale 10
+mlagents-learn "test2.yaml" --run-id freshstart7 --resume --no-graphics --time-scale 7 --torch-device "cuda"
+
+conda activate mlagents
+
+
+
+
+mlagents-learn "g1.yaml" --run-id g1_attempt_1 --force --no-graphics --time-scale 2 --torch-device "cuda"
+mlagents-learn "g1.yaml" --run-id g1_attempt_1 --resume --no-graphics --time-scale 2 --torch-device "cuda"

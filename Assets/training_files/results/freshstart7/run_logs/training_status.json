@@ -1,0 +1,65 @@
+{
+    "test behavior": {
+        "checkpoints": [
+            {
+                "steps": 2413316,
+                "file_path": "results\\freshstart7\\test behavior\\test behavior-2413316.onnx",
+                "reward": null,
+                "creation_time": 1780303403.9285512,
+                "auxillary_file_paths": [
+                    "results\\freshstart7\\test behavior\\test behavior-2413316.pt"
+                ]
+            },
+            {
+                "steps": 2499972,
+                "file_path": "results\\freshstart7\\test behavior\\test behavior-2499972.onnx",
+                "reward": 6624.058677037557,
+                "creation_time": 1780303594.6627853,
+                "auxillary_file_paths": [
+                    "results\\freshstart7\\test behavior\\test behavior-2499972.pt"
+                ]
+            },
+            {
+                "steps": 2806916,
+                "file_path": "results\\freshstart7\\test behavior\\test behavior-2806916.onnx",
+                "reward": 8387.307575941086,
+                "creation_time": 1780304061.019527,
+                "auxillary_file_paths": [
+                    "results\\freshstart7\\test behavior\\test behavior-2806916.pt"
+                ]
+            },
+            {
+                "steps": 2999940,
+                "file_path": "results\\freshstart7\\test behavior\\test behavior-2999940.onnx",
+                "reward": 44733.778537750244,
+                "creation_time": 1780304405.0248804,
+                "auxillary_file_paths": [
+                    "results\\freshstart7\\test behavior\\test behavior-2999940.pt"
+                ]
+            },
+            {
+                "steps": 3095172,
+                "file_path": "results\\freshstart7\\test behavior\\test behavior-3095172.onnx",
+                "reward": null,
+                "creation_time": 1780304546.6764982,
+                "auxillary_file_paths": [
+                    "results\\freshstart7\\test behavior\\test behavior-3095172.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3095172,
+            "file_path": "results\\freshstart7\\test behavior.onnx",
+            "reward": null,
+            "creation_time": 1780304546.6764982,
+            "auxillary_file_paths": [
+                "results\\freshstart7\\test behavior\\test behavior-3095172.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

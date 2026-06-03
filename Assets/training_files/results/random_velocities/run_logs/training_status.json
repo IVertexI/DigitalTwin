@@ -1,0 +1,65 @@
+{
+    "test behavior": {
+        "checkpoints": [
+            {
+                "steps": 2499968,
+                "file_path": "results\\random_velocities\\test behavior\\test behavior-2499968.onnx",
+                "reward": null,
+                "creation_time": 1780260889.4857237,
+                "auxillary_file_paths": [
+                    "results\\random_velocities\\test behavior\\test behavior-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2878976,
+                "file_path": "results\\random_velocities\\test behavior\\test behavior-2878976.onnx",
+                "reward": null,
+                "creation_time": 1780261377.0746171,
+                "auxillary_file_paths": [
+                    "results\\random_velocities\\test behavior\\test behavior-2878976.pt"
+                ]
+            },
+            {
+                "steps": 2999936,
+                "file_path": "results\\random_velocities\\test behavior\\test behavior-2999936.onnx",
+                "reward": -247412.06902503967,
+                "creation_time": 1780295033.190819,
+                "auxillary_file_paths": [
+                    "results\\random_velocities\\test behavior\\test behavior-2999936.pt"
+                ]
+            },
+            {
+                "steps": 3343872,
+                "file_path": "results\\random_velocities\\test behavior\\test behavior-3343872.onnx",
+                "reward": null,
+                "creation_time": 1780295473.2934458,
+                "auxillary_file_paths": [
+                    "results\\random_velocities\\test behavior\\test behavior-3343872.pt"
+                ]
+            },
+            {
+                "steps": 3368960,
+                "file_path": "results\\random_velocities\\test behavior\\test behavior-3368960.onnx",
+                "reward": null,
+                "creation_time": 1780295678.9046419,
+                "auxillary_file_paths": [
+                    "results\\random_velocities\\test behavior\\test behavior-3368960.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3368960,
+            "file_path": "results\\random_velocities\\test behavior.onnx",
+            "reward": null,
+            "creation_time": 1780295678.9046419,
+            "auxillary_file_paths": [
+                "results\\random_velocities\\test behavior\\test behavior-3368960.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
